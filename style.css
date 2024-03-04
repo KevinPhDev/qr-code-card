@@ -16,5 +16,9 @@ body {
 
 .qr-code {
   width: 100%;
+}
+
+.card,
+.qr-code {
   border-radius: 10px;
 }
