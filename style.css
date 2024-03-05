@@ -3,10 +3,11 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color: rgb(197, 215, 222)
 }
 
 .card {
-  border: 2px solid black;
+  background-color: white;
   width: 300px;
   padding: 15px;
   display: flex;
