@@ -32,4 +32,5 @@ body {
 .card-instruction {
   font-size: 15px;
   font-weight: 400;
+  margin-bottom: 15px;
 }
