@@ -9,7 +9,7 @@ body {
 .card {
   background-color: white;
   width: 300px;
-  padding: 15px;
+  padding: 0 15px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -23,6 +23,11 @@ body {
 .card,
 .qr-code {
   border-radius: 10px;
+}
+
+.card-description,
+.card-instruction {
+  padding: 0 15px;
 }
 
 .card-description {
