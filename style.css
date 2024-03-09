@@ -3,7 +3,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: rgb(197, 215, 222)
+  background-color: hsl(212, 45%, 89%)
 }
 
 .card {
